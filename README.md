@@ -1,5 +1,5 @@
 # A-Frame Component: Image Particles
-<img alt="Screenshot" src="img/screenshot.png" width="600">
+<img alt="Screenshot" src="img/screenshot.jpg" width="600">
 
 ### **Description / Rationale**
 This is a component, which demonstrates particles effect as applied in relation to any image. The component also allows animating particles and change their types.   
