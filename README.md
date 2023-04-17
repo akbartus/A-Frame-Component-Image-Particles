@@ -40,4 +40,4 @@ Example implementation is given below. Image target is in "img" folder:
 The project is powered by AFrame and Three.js. 
 
 ### **Demo**
-See demo of the component here: [Demo](https://stencil-cube.glitch.me/)
+See demo of the component here: [Demo](https://img-particles.glitch.me/)
