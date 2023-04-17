@@ -21,7 +21,7 @@ AFRAME.registerComponent('image-particles', {
 
       // Load the image and get its pixel data
       let img = new Image();
-
+      img.crossOrigin = "Anonymous";
       img.onload = function () {
         let canvas = document.createElement('canvas');
         canvas.width = img.width;
