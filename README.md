@@ -29,7 +29,7 @@ Example implementation is given below. Image target is in "img" folder:
   <a-scene>
     <a-entity camera position="0 0 300" wasd-controls look-controls></a-entity>
     <a-entity
-      image-particles="src: logo.png; particleSize: 5; particleCount: 4100; particleSpeed: 0.5; particleMotionDuration: 5"></a-entity>
+      image-particles="src: img/logo.png; particleSize: 5; particleCount: 4100; particleSpeed: 0.5; particleMotionDuration: 5"></a-entity>
     </a-scene>
 </body>
 </html>
