@@ -18,7 +18,7 @@ To see the component at work add "image-particles" component to any empty entity
 * particleDistance: { type: 'number', default: 200 } - max distance particles can travel from their origin. 
 * particleDelay: { type: 'number', default: 3 } - initial delay in seconds before particle motion (if applied).
 
-Example implementation is given below. Image target is in "img" folder:
+Example implementation is given below:
 ```
 <html>
 <head>
